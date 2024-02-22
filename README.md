@@ -10,5 +10,5 @@ Insights:
 
 * NSW has the highest percentage of car crash incident (30.83%) followed by Victoria (21.89%).
 * The year where the highest total car crash incident in all Australia was in 1989.
-* Ages between 17-25 has the highest percentage of crash report at 26.06%.
+* Ages between 17-25 have the highest percentage of crash report at 26.06%.
 * The day of the week where the highest number of accidents occur is on Saturday.
