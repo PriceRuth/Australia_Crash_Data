@@ -4,7 +4,7 @@ The study data contains the state, the day and time of incident, speed limit, ag
 
 Soft Skills: Analytical thinking, Sorting and Organizing, Curiosity
 
-Hard Skills: MySQL, Altering Table, Creating a Procedure, Updating Data, Data Cleaning, Creating a CTE
+Hard Skills: MySQL, Altering Table, Creating a Procedure, Updating Data, Data Cleaning, Creating new tables using Views and CTE
 
 Insights:
 
